@@ -1,0 +1,2 @@
+[21-Dec-2023 12:17:25 UTC] PHP Parse error:  syntax error, unexpected '$site_url' (T_VARIABLE) in /home/viraldashboard/public_html/app.viraldashboard.io/deziner_new/design/index.php on line 14
+[21-Dec-2023 12:17:28 UTC] PHP Parse error:  syntax error, unexpected '$site_url' (T_VARIABLE) in /home/viraldashboard/public_html/app.viraldashboard.io/deziner_new/design/index.php on line 14
